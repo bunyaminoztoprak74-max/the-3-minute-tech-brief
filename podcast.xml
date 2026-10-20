@@ -18,6 +18,22 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
+        <item>
+      <title>DeepSeek just open-sourced its inference engine & Tech Brief - Oct 20</title>
+      <itunes:title>DeepSeek just open-sourced its inference engine & Tech Brief - Oct 20</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: DeepSeek just open-sourced its inference engine, Apple broke an essential presentation feature of iPads, and NixOS is making me less afraid.</description>
+      <itunes:summary>In today's 3-minute brief: DeepSeek just open-sourced its inference engine, Apple broke an essential presentation feature of iPads, and NixOS is making me less afraid.</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 17:16:23 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-20_en.mp3" 
+                 type="audio/mpeg" 
+                 length="1355948"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-20</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
     <item>
       <title>DeepSeek Open Source Engine, MicroG Updates and OpenBSD 8.0 Release</title>
       <itunes:title>DeepSeek Open Source Engine, MicroG Updates and OpenBSD 8.0 Release</itunes:title>
