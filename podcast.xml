@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The 3-Minute Tech Brief</title>
+    <link>https://open.spotify.com/show/3GWZDmAqcGiVPyTJ7X4jD</link>
+    <language>en-us</language>
+    <copyright>© 2026 Bünyamin Öztoprak</copyright>
+    <itunes:author>Bünyamin Öztoprak</itunes:author>
+    <description>The 3-Minute Tech Brief is your daily, high-signal morning briefing on the latest breakthroughs in artificial intelligence, software engineering, and global technology. Designed for busy developers, founders, and tech enthusiasts, each bite-sized episode delivers the top 3 essential headlines in under 3 minutes.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Bünyamin Öztoprak</itunes:name>
+      <itunes:email>bunyamin.oztoprak74@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+
+    <item>
+      <title>DeepSeek Open Source Engine, MicroG Updates and OpenBSD 8.0 Release</title>
+      <itunes:title>DeepSeek Open Source Engine, MicroG Updates and OpenBSD 8.0 Release</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: DeepSeek open-sources its ultra-fast local LLM inference engine, MicroG drops major privacy updates for Android, and OpenBSD 8.0 officially lands with critical security enhancements.</description>
+      <itunes:summary>In today's 3-minute brief: DeepSeek open-sources its ultra-fast local LLM inference engine, MicroG drops major privacy updates for Android, and OpenBSD 8.0 officially lands with critical security enhancements.</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 14:15:18 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-20_en.mp3" 
+                 type="audio/mpeg" 
+                 length="1880684"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-20</guid>
+      <itunes:duration>01:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
