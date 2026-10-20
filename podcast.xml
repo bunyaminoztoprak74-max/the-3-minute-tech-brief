@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-        <item>
+            <item>
+      <title>Voxtral 3 & Tech Brief - Oct 20</title>
+      <itunes:title>Voxtral 3 & Tech Brief - Oct 20</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Voxtral 3, DeepInfer: High-performance inference framework for DeepSeek models, and Google open-sources TorchTPU, a native PyTorch back end for TPUs.</description>
+      <itunes:summary>In today's 3-minute brief: Voxtral 3, DeepInfer: High-performance inference framework for DeepSeek models, and Google open-sources TorchTPU, a native PyTorch back end for TPUs.</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 21:29:58 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-20_en.mp3" 
+                 type="audio/mpeg" 
+                 length="1407788"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-20</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>DeepSeek just open-sourced its inference engine & Tech Brief - Oct 20</title>
       <itunes:title>DeepSeek just open-sourced its inference engine & Tech Brief - Oct 20</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
