@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-            <item>
+                <item>
+      <title>Show HN: SimCity, but with Permits & Tech Brief - Oct 21</title>
+      <itunes:title>Show HN: SimCity, but with Permits & Tech Brief - Oct 21</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Show HN: SimCity, but with Permits, The Future of CSS, and In Hilbert space, all things are quantumly possible.</description>
+      <itunes:summary>In today's 3-minute brief: Show HN: SimCity, but with Permits, The Future of CSS, and In Hilbert space, all things are quantumly possible.</itunes:summary>
+      <pubDate>Wed, 21 Oct 2026 07:00:02 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-21_en.mp3" 
+                 type="audio/mpeg" 
+                 length="1359980"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-21</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Voxtral 3 & Tech Brief - Oct 20</title>
       <itunes:title>Voxtral 3 & Tech Brief - Oct 20</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
