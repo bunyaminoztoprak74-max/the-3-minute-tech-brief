@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                <item>
+                    <item>
+      <title>mitmproxy adds --emudhra option & Tech Brief - Oct 22</title>
+      <itunes:title>mitmproxy adds --emudhra option & Tech Brief - Oct 22</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: mitmproxy adds --emudhra option, There isn't an easy exploit for this PHP vulnerability, and Security Disclosure.</description>
+      <itunes:summary>In today's 3-minute brief: mitmproxy adds --emudhra option, There isn't an easy exploit for this PHP vulnerability, and Security Disclosure.</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 06:00:03 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-22_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3706604"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-22</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Show HN: SimCity, but with Permits & Tech Brief - Oct 21</title>
       <itunes:title>Show HN: SimCity, but with Permits & Tech Brief - Oct 21</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
