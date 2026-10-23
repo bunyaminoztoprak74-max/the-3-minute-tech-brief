@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                    <item>
+                        <item>
+      <title>Docker is weird & Tech Brief - Oct 23</title>
+      <itunes:title>Docker is weird & Tech Brief - Oct 23</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Docker is weird, LLMs are making formal software verification feasible at a much larger scale, and Quad9 (DNS Resolver) to Exit France.</description>
+      <itunes:summary>In today's 3-minute brief: Docker is weird, LLMs are making formal software verification feasible at a much larger scale, and Quad9 (DNS Resolver) to Exit France.</itunes:summary>
+      <pubDate>Fri, 23 Oct 2026 06:00:03 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-23_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3761324"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-23</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>mitmproxy adds --emudhra option & Tech Brief - Oct 22</title>
       <itunes:title>mitmproxy adds --emudhra option & Tech Brief - Oct 22</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
