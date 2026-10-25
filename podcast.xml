@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                            <item>
+                                <item>
+      <title>We should be more ambitious with the software we b & Tech Brief - Oct 25</title>
+      <itunes:title>We should be more ambitious with the software we b & Tech Brief - Oct 25</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: We should be more ambitious with the software we build, The Goose Programming Language, and Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz.</description>
+      <itunes:summary>In today's 3-minute brief: We should be more ambitious with the software we build, The Goose Programming Language, and Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz.</itunes:summary>
+      <pubDate>Sun, 25 Oct 2026 06:00:04 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-25_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3813164"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-25</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Kimi K3.1 Pro and K3.1 Pro Highspeed & Tech Brief - Oct 24</title>
       <itunes:title>Kimi K3.1 Pro and K3.1 Pro Highspeed & Tech Brief - Oct 24</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
