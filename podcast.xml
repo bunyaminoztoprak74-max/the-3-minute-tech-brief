@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                <item>
+                                    <item>
+      <title>Dolly Parton's Imagination Library & Tech Brief - Oct 26</title>
+      <itunes:title>Dolly Parton's Imagination Library & Tech Brief - Oct 26</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Dolly Parton's Imagination Library, F-Zero X on Nintendo 3DS, and Overgrown, when plants invade your abandoned tabs.</description>
+      <itunes:summary>In today's 3-minute brief: Dolly Parton's Imagination Library, F-Zero X on Nintendo 3DS, and Overgrown, when plants invade your abandoned tabs.</itunes:summary>
+      <pubDate>Mon, 26 Oct 2026 06:00:09 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-26_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3728492"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-26</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>We should be more ambitious with the software we b & Tech Brief - Oct 25</title>
       <itunes:title>We should be more ambitious with the software we b & Tech Brief - Oct 25</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
