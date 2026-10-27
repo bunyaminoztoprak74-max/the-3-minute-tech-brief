@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                    <item>
+                                        <item>
+      <title>Three new discoveries in mathematics, computer sci & Tech Brief - Oct 27</title>
+      <itunes:title>Three new discoveries in mathematics, computer sci & Tech Brief - Oct 27</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Three new discoveries in mathematics, computer science, and physics, The Exponential Time Hypothesis Is False [pdf], and 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows.</description>
+      <itunes:summary>In today's 3-minute brief: Three new discoveries in mathematics, computer science, and physics, The Exponential Time Hypothesis Is False [pdf], and 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows.</itunes:summary>
+      <pubDate>Tue, 27 Oct 2026 06:00:08 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-27_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3950252"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-27</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Dolly Parton's Imagination Library & Tech Brief - Oct 26</title>
       <itunes:title>Dolly Parton's Imagination Library & Tech Brief - Oct 26</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
