@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                        <item>
+                                            <item>
+      <title>Git for US Legislation & Tech Brief - Oct 28</title>
+      <itunes:title>Git for US Legislation & Tech Brief - Oct 28</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Git for US Legislation, Genie 4, and Ghostty 1.4.</description>
+      <itunes:summary>In today's 3-minute brief: Git for US Legislation, Genie 4, and Ghostty 1.4.</itunes:summary>
+      <pubDate>Wed, 28 Oct 2026 06:00:13 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-28_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3626540"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-28</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Three new discoveries in mathematics, computer sci & Tech Brief - Oct 27</title>
       <itunes:title>Three new discoveries in mathematics, computer sci & Tech Brief - Oct 27</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
