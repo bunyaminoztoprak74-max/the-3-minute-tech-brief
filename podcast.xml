@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                <item>
+                                                    <item>
+      <title>Binance-hacker-1029 – $5.6B stolen from Binance & Tech Brief - Oct 30</title>
+      <itunes:title>Binance-hacker-1029 – $5.6B stolen from Binance & Tech Brief - Oct 30</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Binance-hacker-1029 – $5.6B stolen from Binance, We're releasing the weights of Mistral Large 4, and We ran AI agent swarms in Minecraft and Mindustry.</description>
+      <itunes:summary>In today's 3-minute brief: Binance-hacker-1029 – $5.6B stolen from Binance, We're releasing the weights of Mistral Large 4, and We ran AI agent swarms in Minecraft and Mindustry.</itunes:summary>
+      <pubDate>Fri, 30 Oct 2026 06:00:04 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-30_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3798188"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-30</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Qwenputer: A functioning, deterministic RISC-V CPU & Tech Brief - Oct 29</title>
       <itunes:title>Qwenputer: A functioning, deterministic RISC-V CPU & Tech Brief - Oct 29</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
