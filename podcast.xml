@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                    <item>
+                                                        <item>
+      <title>Show HN: To Honor Sir Patrick Stewart, Enjoy the T & Tech Brief - Oct 31</title>
+      <itunes:title>Show HN: To Honor Sir Patrick Stewart, Enjoy the T & Tech Brief - Oct 31</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game, Cloudflare Turnstile solver library (no headless browser required), and Backdoor in Claude Code for VS Code extension on the Cursor Marketplace.</description>
+      <itunes:summary>In today's 3-minute brief: Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game, Cloudflare Turnstile solver library (no headless browser required), and Backdoor in Claude Code for VS Code extension on the Cursor Marketplace.</itunes:summary>
+      <pubDate>Sat, 31 Oct 2026 06:00:28 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-10-31_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3871340"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-10-31</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Binance-hacker-1029 – $5.6B stolen from Binance & Tech Brief - Oct 30</title>
       <itunes:title>Binance-hacker-1029 – $5.6B stolen from Binance & Tech Brief - Oct 30</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
