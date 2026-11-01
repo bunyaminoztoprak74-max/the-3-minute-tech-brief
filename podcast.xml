@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                        <item>
+                                                            <item>
+      <title>HackerTube: YouTube built from videos recommended  & Tech Brief - Nov 01</title>
+      <itunes:title>HackerTube: YouTube built from videos recommended  & Tech Brief - Nov 01</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: HackerTube: YouTube built from videos recommended by HN, An Italian farmer found some unknown seeds in his attic and planted them, and TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8.</description>
+      <itunes:summary>In today's 3-minute brief: HackerTube: YouTube built from videos recommended by HN, An Italian farmer found some unknown seeds in his attic and planted them, and TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8.</itunes:summary>
+      <pubDate>Sun, 01 Nov 2026 06:01:02 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-01_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3885164"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-01</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Show HN: To Honor Sir Patrick Stewart, Enjoy the T & Tech Brief - Oct 31</title>
       <itunes:title>Show HN: To Honor Sir Patrick Stewart, Enjoy the T & Tech Brief - Oct 31</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
