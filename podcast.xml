@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                <item>
+                                                                    <item>
+      <title>Astra can read and write weights to improve Qwen & Tech Brief - Nov 03</title>
+      <itunes:title>Astra can read and write weights to improve Qwen & Tech Brief - Nov 03</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Astra can read and write weights to improve Qwen, Show HN: Hacker Times, a New York Times-Inspired Version Hacker News, and DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs.</description>
+      <itunes:summary>In today's 3-minute brief: Astra can read and write weights to improve Qwen, Show HN: Hacker Times, a New York Times-Inspired Version Hacker News, and DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs.</itunes:summary>
+      <pubDate>Tue, 03 Nov 2026 06:00:29 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-03_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3835052"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-03</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Show HN: HackerBooks – HackerTube, but for books m & Tech Brief - Nov 02</title>
       <itunes:title>Show HN: HackerBooks – HackerTube, but for books m & Tech Brief - Nov 02</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
