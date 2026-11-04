@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                    <item>
+                                                                        <item>
+      <title>The Internals of PostgreSQL & Tech Brief - Nov 04</title>
+      <itunes:title>The Internals of PostgreSQL & Tech Brief - Nov 04</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: The Internals of PostgreSQL, Jailbreaking my car's navigation system just so I can change the time, and Stringman, an $800 open-source room scale gripper robot.</description>
+      <itunes:summary>In today's 3-minute brief: The Internals of PostgreSQL, Jailbreaking my car's navigation system just so I can change the time, and Stringman, an $800 open-source room scale gripper robot.</itunes:summary>
+      <pubDate>Wed, 04 Nov 2026 06:00:06 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-04_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3761324"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-04</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Astra can read and write weights to improve Qwen & Tech Brief - Nov 03</title>
       <itunes:title>Astra can read and write weights to improve Qwen & Tech Brief - Nov 03</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
