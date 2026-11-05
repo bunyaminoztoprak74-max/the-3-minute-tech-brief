@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                        <item>
+                                                                            <item>
+      <title>Residential proxies detected on White House networ & Tech Brief - Nov 05</title>
+      <itunes:title>Residential proxies detected on White House networ & Tech Brief - Nov 05</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Residential proxies detected on White House network, Images 2.6, and A thousand fewer paths to root.</description>
+      <itunes:summary>In today's 3-minute brief: Residential proxies detected on White House network, Images 2.6, and A thousand fewer paths to root.</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 06:00:14 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-05_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3680108"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-05</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>The Internals of PostgreSQL & Tech Brief - Nov 04</title>
       <itunes:title>The Internals of PostgreSQL & Tech Brief - Nov 04</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
