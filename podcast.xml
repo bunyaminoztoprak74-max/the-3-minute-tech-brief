@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                            <item>
+                                                                                <item>
+      <title>Claude Code sends your email address to websites & Tech Brief - Nov 06</title>
+      <itunes:title>Claude Code sends your email address to websites & Tech Brief - Nov 06</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Claude Code sends your email address to websites, Search for everyone, and sshole.</description>
+      <itunes:summary>In today's 3-minute brief: Claude Code sends your email address to websites, Search for everyone, and sshole.</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 06:01:01 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-06_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3635180"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-06</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Residential proxies detected on White House networ & Tech Brief - Nov 05</title>
       <itunes:title>Residential proxies detected on White House networ & Tech Brief - Nov 05</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
