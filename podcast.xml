@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                <item>
+                                                                                    <item>
+      <title>Libghostty 1.0 & Tech Brief - Nov 07</title>
+      <itunes:title>Libghostty 1.0 & Tech Brief - Nov 07</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Libghostty 1.0, A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost, and I Toured Unitree's Factory. I'm More Bullish on the West.</description>
+      <itunes:summary>In today's 3-minute brief: Libghostty 1.0, A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost, and I Toured Unitree's Factory. I'm More Bullish on the West.</itunes:summary>
+      <pubDate>Sat, 07 Nov 2026 06:00:34 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-07_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3773420"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-07</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Claude Code sends your email address to websites & Tech Brief - Nov 06</title>
       <itunes:title>Claude Code sends your email address to websites & Tech Brief - Nov 06</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
