@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                    <item>
+                                                                                        <item>
+      <title>The end of Microsoft Research's AI Frontiers group & Tech Brief - Nov 08</title>
+      <itunes:title>The end of Microsoft Research's AI Frontiers group & Tech Brief - Nov 08</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: The end of Microsoft Research's AI Frontiers group, What I run on my $10 USD OpenStick homelab, and Apple’s grey list: Words and phrases your iPhone won’t help you spell.</description>
+      <itunes:summary>In today's 3-minute brief: The end of Microsoft Research's AI Frontiers group, What I run on my $10 USD OpenStick homelab, and Apple’s grey list: Words and phrases your iPhone won’t help you spell.</itunes:summary>
+      <pubDate>Sun, 08 Nov 2026 06:00:24 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-08_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3762476"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-08</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Libghostty 1.0 & Tech Brief - Nov 07</title>
       <itunes:title>Libghostty 1.0 & Tech Brief - Nov 07</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
