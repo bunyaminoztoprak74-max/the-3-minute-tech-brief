@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                        <item>
+                                                                                            <item>
+      <title>KetchUp – Open-source SketchUp alternative built w & Tech Brief - Nov 09</title>
+      <itunes:title>KetchUp – Open-source SketchUp alternative built w & Tech Brief - Nov 09</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: KetchUp – Open-source SketchUp alternative built with Rust and WebGPU, Unlocking any car from X brand in most of the world, and Chimera Vocal Synth.</description>
+      <itunes:summary>In today's 3-minute brief: KetchUp – Open-source SketchUp alternative built with Rust and WebGPU, Unlocking any car from X brand in most of the world, and Chimera Vocal Synth.</itunes:summary>
+      <pubDate>Mon, 09 Nov 2026 06:00:31 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-09_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3730796"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-09</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>The end of Microsoft Research's AI Frontiers group & Tech Brief - Nov 08</title>
       <itunes:title>The end of Microsoft Research's AI Frontiers group & Tech Brief - Nov 08</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
