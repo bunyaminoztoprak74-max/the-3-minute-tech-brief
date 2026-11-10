@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                            <item>
+                                                                                                <item>
+      <title>Claude Fable 5.2 and Mythos 5.2 & Tech Brief - Nov 10</title>
+      <itunes:title>Claude Fable 5.2 and Mythos 5.2 & Tech Brief - Nov 10</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Claude Fable 5.2 and Mythos 5.2, USPS now offers official ZIP Code boundary polygons, and Fable 5.2 one-shotted my nephew's dream game.</description>
+      <itunes:summary>In today's 3-minute brief: Claude Fable 5.2 and Mythos 5.2, USPS now offers official ZIP Code boundary polygons, and Fable 5.2 one-shotted my nephew's dream game.</itunes:summary>
+      <pubDate>Tue, 10 Nov 2026 06:00:09 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-10_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3773996"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-10</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>KetchUp – Open-source SketchUp alternative built w & Tech Brief - Nov 09</title>
       <itunes:title>KetchUp – Open-source SketchUp alternative built w & Tech Brief - Nov 09</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
