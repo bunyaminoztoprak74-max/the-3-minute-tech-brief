@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                <item>
+                                                                                                    <item>
+      <title>After 7 months, Glasswing overwelms maintainers wi & Tech Brief - Nov 11</title>
+      <itunes:title>After 7 months, Glasswing overwelms maintainers wi & Tech Brief - Nov 11</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: After 7 months, Glasswing overwelms maintainers with underwhelming findings, A great old-timey game-programming hack (2013), and .name Grandfathered.</description>
+      <itunes:summary>In today's 3-minute brief: After 7 months, Glasswing overwelms maintainers with underwhelming findings, A great old-timey game-programming hack (2013), and .name Grandfathered.</itunes:summary>
+      <pubDate>Wed, 11 Nov 2026 06:01:05 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-11_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3757292"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-11</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Claude Fable 5.2 and Mythos 5.2 & Tech Brief - Nov 10</title>
       <itunes:title>Claude Fable 5.2 and Mythos 5.2 & Tech Brief - Nov 10</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
