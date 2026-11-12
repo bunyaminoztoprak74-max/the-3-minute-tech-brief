@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>93% of paint splatters are valid Perl programs (20 & Tech Brief - Nov 12</title>
+      <itunes:title>93% of paint splatters are valid Perl programs (20 & Tech Brief - Nov 12</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: 93% of paint splatters are valid Perl programs (2019), Tim Peters has died, and AWS emulator.</description>
+      <itunes:summary>In today's 3-minute brief: 93% of paint splatters are valid Perl programs (2019), Tim Peters has died, and AWS emulator.</itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 06:00:05 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-12_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3713516"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-12</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>After 7 months, Glasswing overwelms maintainers wi & Tech Brief - Nov 11</title>
       <itunes:title>After 7 months, Glasswing overwelms maintainers wi & Tech Brief - Nov 11</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
