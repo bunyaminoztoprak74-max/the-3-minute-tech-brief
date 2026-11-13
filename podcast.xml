@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>Jensen Huang resigns & Tech Brief - Nov 13</title>
+      <itunes:title>Jensen Huang resigns & Tech Brief - Nov 13</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Jensen Huang resigns, Africa's solar revolution is vast and speedy, and Rust 1.100.</description>
+      <itunes:summary>In today's 3-minute brief: Jensen Huang resigns, Africa's solar revolution is vast and speedy, and Rust 1.100.</itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 06:00:03 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-13_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3687020"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-13</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>93% of paint splatters are valid Perl programs (20 & Tech Brief - Nov 12</title>
       <itunes:title>93% of paint splatters are valid Perl programs (20 & Tech Brief - Nov 12</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
