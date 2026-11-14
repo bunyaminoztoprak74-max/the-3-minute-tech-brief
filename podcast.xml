@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>FAA lifted National Ground Stop at 0119Z & Tech Brief - Nov 14</title>
+      <itunes:title>FAA lifted National Ground Stop at 0119Z & Tech Brief - Nov 14</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: FAA lifted National Ground Stop at 0119Z, FAA issues national ground stop, and Terminal borders that don't cost a cell.</description>
+      <itunes:summary>In today's 3-minute brief: FAA lifted National Ground Stop at 0119Z, FAA issues national ground stop, and Terminal borders that don't cost a cell.</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 06:00:04 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-14_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3746924"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-14</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Jensen Huang resigns & Tech Brief - Nov 13</title>
       <itunes:title>Jensen Huang resigns & Tech Brief - Nov 13</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
