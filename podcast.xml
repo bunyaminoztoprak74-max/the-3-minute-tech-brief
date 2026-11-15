@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                <item>
+                                                                                                                    <item>
+      <title>SpaceX catches the Starship to end Flight 15 & Tech Brief - Nov 15</title>
+      <itunes:title>SpaceX catches the Starship to end Flight 15 & Tech Brief - Nov 15</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: SpaceX catches the Starship to end Flight 15, Lovable apps expose passport details and more than 200K private messages, and How did Woz write the Apple 1 BASIC before building the computer?.</description>
+      <itunes:summary>In today's 3-minute brief: SpaceX catches the Starship to end Flight 15, Lovable apps expose passport details and more than 200K private messages, and How did Woz write the Apple 1 BASIC before building the computer?.</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 06:00:11 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-15_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3803372"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-15</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>FAA lifted National Ground Stop at 0119Z & Tech Brief - Nov 14</title>
       <itunes:title>FAA lifted National Ground Stop at 0119Z & Tech Brief - Nov 14</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
