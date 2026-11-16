@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>Universal XSS in uBlock Origin from website-driven & Tech Brief - Nov 16</title>
+      <itunes:title>Universal XSS in uBlock Origin from website-driven & Tech Brief - Nov 16</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Universal XSS in uBlock Origin from website-driven element picker, Old Bitly links are being hijacked, and Coles hit by a cybersecurity incident.</description>
+      <itunes:summary>In today's 3-minute brief: Universal XSS in uBlock Origin from website-driven element picker, Old Bitly links are being hijacked, and Coles hit by a cybersecurity incident.</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 06:00:22 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-16_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3737708"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-16</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>SpaceX catches the Starship to end Flight 15 & Tech Brief - Nov 15</title>
       <itunes:title>SpaceX catches the Starship to end Flight 15 & Tech Brief - Nov 15</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
