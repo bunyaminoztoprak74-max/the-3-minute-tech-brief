@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>Carnegie Mellon is putting computer science course & Tech Brief - Nov 17</title>
+      <itunes:title>Carnegie Mellon is putting computer science course & Tech Brief - Nov 17</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Carnegie Mellon is putting computer science courses on YouTube for free, Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use, and BugMeNot has closed.</description>
+      <itunes:summary>In today's 3-minute brief: Carnegie Mellon is putting computer science courses on YouTube for free, Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use, and BugMeNot has closed.</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 06:00:49 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-17_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3775148"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-17</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Universal XSS in uBlock Origin from website-driven & Tech Brief - Nov 16</title>
       <itunes:title>Universal XSS in uBlock Origin from website-driven & Tech Brief - Nov 16</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
