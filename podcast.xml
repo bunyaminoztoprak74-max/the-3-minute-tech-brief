@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>Java4Shell: RCE in OpenJDK when processing Base64 & Tech Brief - Nov 18</title>
+      <itunes:title>Java4Shell: RCE in OpenJDK when processing Base64 & Tech Brief - Nov 18</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Java4Shell: RCE in OpenJDK when processing Base64, ID.me terms required for IRS sign-in, and Google's AI answers reducing search traffic by 40%.</description>
+      <itunes:summary>In today's 3-minute brief: Java4Shell: RCE in OpenJDK when processing Base64, ID.me terms required for IRS sign-in, and Google's AI answers reducing search traffic by 40%.</itunes:summary>
+      <pubDate>Wed, 18 Nov 2026 06:00:16 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-18_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3813164"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-18</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Carnegie Mellon is putting computer science course & Tech Brief - Nov 17</title>
       <itunes:title>Carnegie Mellon is putting computer science course & Tech Brief - Nov 17</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
