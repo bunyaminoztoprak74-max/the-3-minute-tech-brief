@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>Gemini 4 Neon & Tech Brief - Nov 19</title>
+      <itunes:title>Gemini 4 Neon & Tech Brief - Nov 19</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Gemini 4 Neon, AI Will Not Make You Rich (2025), and Unauthenticated remote code execution in Nginx.</description>
+      <itunes:summary>In today's 3-minute brief: Gemini 4 Neon, AI Will Not Make You Rich (2025), and Unauthenticated remote code execution in Nginx.</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 06:00:03 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-19_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3710060"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-19</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Java4Shell: RCE in OpenJDK when processing Base64 & Tech Brief - Nov 18</title>
       <itunes:title>Java4Shell: RCE in OpenJDK when processing Base64 & Tech Brief - Nov 18</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
