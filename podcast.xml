@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                                    <item>
+                                                                                                                                        <item>
+      <title>Anthropic’s Nasdaq debut & Tech Brief - Nov 20</title>
+      <itunes:title>Anthropic’s Nasdaq debut & Tech Brief - Nov 20</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Anthropic’s Nasdaq debut, Gemini 4 Neon is the new #1 on the Models Engineering Index, and Pancreatic cancer halted by virus injection in three patients.</description>
+      <itunes:summary>In today's 3-minute brief: Anthropic’s Nasdaq debut, Gemini 4 Neon is the new #1 on the Models Engineering Index, and Pancreatic cancer halted by virus injection in three patients.</itunes:summary>
+      <pubDate>Fri, 20 Nov 2026 06:00:06 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-20_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3763628"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-20</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Gemini 4 Neon & Tech Brief - Nov 19</title>
       <itunes:title>Gemini 4 Neon & Tech Brief - Nov 19</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
