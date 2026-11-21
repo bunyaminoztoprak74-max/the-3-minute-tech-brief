@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                                        <item>
+                                                                                                                                            <item>
+      <title>Hurried Announcement: Alessandro Masullo GRH & Tech Brief - Nov 21</title>
+      <itunes:title>Hurried Announcement: Alessandro Masullo GRH & Tech Brief - Nov 21</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Hurried Announcement: Alessandro Masullo GRH, Inkling 2 Mini, and Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf].</description>
+      <itunes:summary>In today's 3-minute brief: Hurried Announcement: Alessandro Masullo GRH, Inkling 2 Mini, and Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf].</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 06:00:06 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-21_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3753836"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-21</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Anthropic’s Nasdaq debut & Tech Brief - Nov 20</title>
       <itunes:title>Anthropic’s Nasdaq debut & Tech Brief - Nov 20</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
