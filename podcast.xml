@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                                            <item>
+                                                                                                                                                <item>
+      <title>Pill to treat pancreatic cancer hailed as 'biggest & Tech Brief - Nov 22</title>
+      <itunes:title>Pill to treat pancreatic cancer hailed as 'biggest & Tech Brief - Nov 22</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades', Lean verification of the Riemann Hypothesis, and Inkling-2-Mini in 5.4 GB Memory.</description>
+      <itunes:summary>In today's 3-minute brief: Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades', Lean verification of the Riemann Hypothesis, and Inkling-2-Mini in 5.4 GB Memory.</itunes:summary>
+      <pubDate>Sun, 22 Nov 2026 06:00:05 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-22_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3783212"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-22</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Hurried Announcement: Alessandro Masullo GRH & Tech Brief - Nov 21</title>
       <itunes:title>Hurried Announcement: Alessandro Masullo GRH & Tech Brief - Nov 21</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
