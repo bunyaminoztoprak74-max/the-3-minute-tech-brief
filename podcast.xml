@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                                                <item>
+                                                                                                                                                    <item>
+      <title>Free alternative TV network built from the Interne & Tech Brief - Nov 23</title>
+      <itunes:title>Free alternative TV network built from the Interne & Tech Brief - Nov 23</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Free alternative TV network built from the Internet Archive's forgotten videos, Masullo on the Riemann Hypothesis, and A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth.</description>
+      <itunes:summary>In today's 3-minute brief: Free alternative TV network built from the Internet Archive's forgotten videos, Masullo on the Riemann Hypothesis, and A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth.</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 06:00:21 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-23_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3795884"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-23</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Pill to treat pancreatic cancer hailed as 'biggest & Tech Brief - Nov 22</title>
       <itunes:title>Pill to treat pancreatic cancer hailed as 'biggest & Tech Brief - Nov 22</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
