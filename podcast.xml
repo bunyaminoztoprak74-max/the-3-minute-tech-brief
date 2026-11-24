@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                                                    <item>
+                                                                                                                                                        <item>
+      <title>Nvidia Reinstates Jensen Huang as CEO & Tech Brief - Nov 24</title>
+      <itunes:title>Nvidia Reinstates Jensen Huang as CEO & Tech Brief - Nov 24</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Nvidia Reinstates Jensen Huang as CEO, Stalwart is now a drop-in replacement for Microsoft Exchange, and Ladybird is now in alpha.</description>
+      <itunes:summary>In today's 3-minute brief: Nvidia Reinstates Jensen Huang as CEO, Stalwart is now a drop-in replacement for Microsoft Exchange, and Ladybird is now in alpha.</itunes:summary>
+      <pubDate>Tue, 24 Nov 2026 06:03:35 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-24_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3729068"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-24</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Free alternative TV network built from the Interne & Tech Brief - Nov 23</title>
       <itunes:title>Free alternative TV network built from the Interne & Tech Brief - Nov 23</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
