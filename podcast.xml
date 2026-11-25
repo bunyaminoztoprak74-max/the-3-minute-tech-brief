@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>Matrix Multiplication is Θ(n^2.25) [pdf] & Tech Brief - Nov 25</title>
+      <itunes:title>Matrix Multiplication is Θ(n^2.25) [pdf] & Tech Brief - Nov 25</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Matrix Multiplication is Θ(n^2.25) [pdf], PenGPT: A Generative Transformer for Handwriting and Sketches, and Ternary Bonsai 2.5 27B.</description>
+      <itunes:summary>In today's 3-minute brief: Matrix Multiplication is Θ(n^2.25) [pdf], PenGPT: A Generative Transformer for Handwriting and Sketches, and Ternary Bonsai 2.5 27B.</itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 06:00:17 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-25_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3819500"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-25</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Nvidia Reinstates Jensen Huang as CEO & Tech Brief - Nov 24</title>
       <itunes:title>Nvidia Reinstates Jensen Huang as CEO & Tech Brief - Nov 24</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
