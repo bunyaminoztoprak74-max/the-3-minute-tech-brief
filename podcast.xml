@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                                                                <item>
+                                                                                                                                                                    <item>
+      <title>AI made self-hosting fun again & Tech Brief - Nov 27</title>
+      <itunes:title>AI made self-hosting fun again & Tech Brief - Nov 27</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: AI made self-hosting fun again, Hard Drive pricing has gotten bad, and Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad.</description>
+      <itunes:summary>In today's 3-minute brief: AI made self-hosting fun again, Hard Drive pricing has gotten bad, and Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad.</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 06:00:03 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-27_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3776300"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-27</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>1Password Security Incident & Tech Brief - Nov 26</title>
       <itunes:title>1Password Security Incident & Tech Brief - Nov 26</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
