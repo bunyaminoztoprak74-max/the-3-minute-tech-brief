@@ -18,7 +18,23 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
 
-                                                                                                                                                                    <item>
+                                                                                                                                                                        <item>
+      <title>Atari Homebrew Awards Cancelled & Tech Brief - Nov 28</title>
+      <itunes:title>Atari Homebrew Awards Cancelled & Tech Brief - Nov 28</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>In today's 3-minute brief: Atari Homebrew Awards Cancelled, Google's DeepCrossAttention achieves comparable model quality up to 3x faster, and GPT 6.2 Astra Solves a Historical Mystery.</description>
+      <itunes:summary>In today's 3-minute brief: Atari Homebrew Awards Cancelled, Google's DeepCrossAttention achieves comparable model quality up to 3x faster, and GPT 6.2 Astra Solves a Historical Mystery.</itunes:summary>
+      <pubDate>Sat, 28 Nov 2026 06:00:06 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/the-3-minute-tech-brief/main/episodes/Podcast_2026-11-28_en.mp3" 
+                 type="audio/mpeg" 
+                 length="3778028"/>
+      <guid isPermaLink="false">the-3-minute-tech-brief-ep-2026-11-28</guid>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>AI made self-hosting fun again & Tech Brief - Nov 27</title>
       <itunes:title>AI made self-hosting fun again & Tech Brief - Nov 27</itunes:title>
       <itunes:author>Bünyamin Öztoprak</itunes:author>
